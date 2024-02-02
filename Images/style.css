@@ -1,0 +1,153 @@
+html{
+    background-color: #000;
+}
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #7e7e7e
+
+
+}
+
+h2{
+    font-family: 'Roboto Slab', serif;
+    color: #EDEDED;
+}
+h3{
+    font-family: 'Roboto Slab', serif;
+    color: #EDEDED;
+}
+
+.Tcontainer {
+    background-color: #000;
+    margin: 0;
+    position: relative;
+    padding-top: 100px;
+}
+h1{
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 5em;
+    color: #EDEDED
+    
+
+}
+.head {
+    color: #DA0037;
+}
+
+.BottomCloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.TopCloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+
+.middle-container{
+    padding: 50px;
+}
+
+.B{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.A{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.middle-container{
+background-color: #000;
+
+}
+
+hr {
+    border-color: #DA0037;
+    border-style: none;
+    border-top-style: dotted;
+    height: 10px;
+    border-width: 5px;
+    width: 5%;
+    margin: 100px auto;
+  }
+
+.dev {
+    margin-top:100px;
+    margin-bottom:100px;
+    opacity: 70%;
+}
+.TopCloud{
+    opacity: 70%;
+}
+
+.BottomCloud{
+    opacity: 70%;
+}
+
+.contact {
+    width: 30%;
+    margin: 40px auto 60px;
+    line-height: 2;
+}
+
+
+.btn {
+  background: #ff1f1f;
+  background-image: -webkit-linear-gradient(top, #ff1f1f, #c71010);
+  background-image: -moz-linear-gradient(top, #ff1f1f, #c71010);
+  background-image: -ms-linear-gradient(top, #ff1f1f, #c71010);
+  background-image: -o-linear-gradient(top, #ff1f1f, #c71010);
+  background-image: linear-gradient(to bottom, #ff1f1f, #c71010);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #000000;
+  font-size: 17px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+  
+  .btn:hover {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+.bottom-container{
+    margin-top: 50px;
+    background-color: #000000;
+    padding: 50px 0px 20px;
+    color: #ffffff;
+}
+
+a{
+color: #ffffff;
+font-family: 'Monserrat',sans-serif;
+margin: 10px 20px;
+text-decoration: none;
+}
+
+a:hover{
+    color: #DA0037
+}
+
+.varsity{
+    margin: 0;
+}
